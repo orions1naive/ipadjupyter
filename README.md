@@ -1,1 +1,1 @@
-# ipadupyter
+# ipadjupyter
