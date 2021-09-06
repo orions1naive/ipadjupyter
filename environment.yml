@@ -9,3 +9,18 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - geoplotlib
+    - Seaborn
+    - ggplot
+    - Bokeh
+    - Plotly
+    - pygal
+    - missingno
+    - Orange3
+    - XGBoost
+    - NuPIC
+    - Milk
+    - Caffe
+    - Theano
+    - TensorFlow
+    - Keras
